@@ -1,7 +1,7 @@
 ### Hi there ♡👋
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+### 🌱 my skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,js,react,vercel,figma)](https://skillicons.dev)
 
 <!--
 **madanamaehanai/madanamaehanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
