@@ -1,8 +1,10 @@
 ### Hi there ♡👋
 
 ### 🌱 my skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,js,react,vercel,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,react,vercel,figma)](https://skillicons.dev)
 
+## 📈 Status
+[![trophy](https://github-profile-trophy.vercel.app/?username=madanamaehanai&margin-w=5)](https://github.com/tsuki-lab/)
 <!--
 **madanamaehanai/madanamaehanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
