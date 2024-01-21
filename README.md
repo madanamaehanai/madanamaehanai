@@ -1,7 +1,7 @@
 ### Hi there ♡👋
 
 ### 🌱 my skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,github,react,docker,django,vercel,firebase,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,github,docker,react,rails,django,vercel,firebase,figma)](https://skillicons.dev)
 
 
 ## 📈 Status
